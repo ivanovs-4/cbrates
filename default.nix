@@ -1,1 +1,1 @@
-(import ./nix/release.nix).packages
+{}: (import ./nix/release.nix).packages
