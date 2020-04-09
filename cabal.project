@@ -1,0 +1,7 @@
+source-repository-package
+    type: git
+    location: git@github.com:hexresearch/fuzzy-parse.git
+    tag: 99643c1d49822b943707c7f26b6777f2b227672e
+
+packages: cbrates.cabal
+
